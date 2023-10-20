@@ -30,7 +30,7 @@ It is very much modern and user friendly. It also works as middleware i.e. only 
 # Appreciation
 We would like to acknowledge and thank RGMCET and BYTS INDIA for their efforts in organizing the 24-hour hackathon, which brought  us together for an exciting event. We are immensely grateful for their commitment to fostering learning, collaboration, and growth. At last this event gave us an unique and enriching experience.
 # Contact Us
-You can get in touch with us by sending an email to swarooparani3103@gmail.com. We appreciate your inquiries and feedback.
+You can get in touch with us by sending an email to mubeenakatika07@gmail.com. We appreciate your inquiries and feedback.
 
 
 
